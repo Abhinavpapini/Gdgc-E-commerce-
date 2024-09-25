@@ -18,25 +18,25 @@ This is a simple React-based e-commerce platform where users can:
 ## Project Structure
 The main files and folders are organized as follows:
 
-Gdgc/
+Gdgc/ \
 │
 ├── public/              # Public assets \
 ├── src/                 # Source code folder \
 │   ├── assets/          # Static images, icons, etc. \
 │   ├── components/      # React components \
 │   │   ├── Cart.css     # Styles for the cart
-│   │   └── Cart.jsx     # Main cart functionality component
-│   ├── App.jsx          # Main app component
-│   ├── App.css          # Global styles
-│   ├── index.css        # CSS for the index.html
-│   └── main.jsx         # Application entry point
-├── .gitignore           # Git ignore rules
-├── eslint.config.js     # ESLint configuration
-├── index.html           # Main HTML file
-├── package.json         # Project dependencies and scripts
-├── package-lock.json    # Locks versions of installed dependencies
-└── vite.config.js       # Vite configuration file
-
+│   │   └── Cart.jsx     # Main cart functionality component \
+│   ├── App.jsx          # Main app component \
+│   ├── App.css          # Global styles \
+│   ├── index.css        # CSS for the index.html \
+│   └── main.jsx         # Application entry point \
+├── .gitignore           # Git ignore rules \
+├── eslint.config.js     # ESLint configuration \
+├── index.html           # Main HTML file \
+├── package.json         # Project dependencies and scripts \
+├── package-lock.json    # Locks versions of installed dependencies \
+└── vite.config.js       # Vite configuration file \
+ 
 
 ## Installation and Setup
 
