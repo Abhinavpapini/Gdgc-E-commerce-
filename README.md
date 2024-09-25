@@ -20,10 +20,10 @@ The main files and folders are organized as follows:
 
 Gdgc/
 │
-├── public/              # Public assets
-├── src/                 # Source code folder
-│   ├── assets/          # Static images, icons, etc.
-│   ├── components/      # React components
+├── public/              # Public assets \
+├── src/                 # Source code folder \
+│   ├── assets/          # Static images, icons, etc. \
+│   ├── components/      # React components \
 │   │   ├── Cart.css     # Styles for the cart
 │   │   └── Cart.jsx     # Main cart functionality component
 │   ├── App.jsx          # Main app component
