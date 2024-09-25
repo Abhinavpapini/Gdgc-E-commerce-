@@ -24,7 +24,7 @@ Gdgc/ \
 ├── src/                 # Source code folder \
 │   ├── assets/          # Static images, icons, etc. \
 │   ├── components/      # React components \
-│   │   ├── Cart.css     # Styles for the cart
+│   │   ├── Cart.css     # Styles for the cart \
 │   │   └── Cart.jsx     # Main cart functionality component \
 │   ├── App.jsx          # Main app component \
 │   ├── App.css          # Global styles \
