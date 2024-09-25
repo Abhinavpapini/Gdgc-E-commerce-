@@ -35,7 +35,7 @@ Gdgc/ \
 ├── index.html           # Main HTML file \
 ├── package.json         # Project dependencies and scripts \
 ├── package-lock.json    # Locks versions of installed dependencies \
-└── vite.config.js       # Vite configuration file \
+└── vite.config.js       # Vite configuration file 
  
 
 ## Installation and Setup
